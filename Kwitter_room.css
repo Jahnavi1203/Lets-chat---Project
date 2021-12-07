@@ -1,0 +1,51 @@
+body{
+    background-image: url("back.jpg");
+    background-size: 1500px;
+}
+#logout_button{
+    float: right;
+    background-color: rgb(255, 0, 0);
+    width: 200px;
+    height: 40px;
+    font-weight: bolder;
+    color: whitesmoke;
+    font-size: 20px;
+}
+#room_name{
+    margin-top: 250px;
+    width: 700px;
+    height: 40px;
+    border-style: double;
+    border-width: 5px;
+    background-color: white;
+}
+#output{
+    margin-top: 20px;
+    width: 400px;
+    height: 30px;
+    margin-right: 200px;
+    border-style: solid;
+    border-width: 5px;
+    background-color: greenyellow;
+    font-size: 18px;
+    color: black;
+}
+#Room_names{
+    background-color: whitesmoke;
+    margin-top: 35px;
+    font-size: 19px;
+    font-family: cursive;
+    padding-left: 550px;
+}
+#name_of_user{
+    float: left;
+    background-color: whitesmoke;
+    font-size: 25px;
+    padding-left: 7px;
+    padding-right: 7px;
+
+}
+#id{
+    font-size: 25px;
+    font-weight: bolder;
+}
